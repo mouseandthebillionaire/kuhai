@@ -1,0 +1,24 @@
+{"poems":[
+	{
+		"id" : 1,
+		"title": "Breakfast",
+		"lines": {
+			"1" : "His mother was CHOICE"
+			"2" : "His mother was CHOICE",
+			"3" : "Her CHOICE hair loosely tied",
+			"4" : "CHOICE wrapped tight, fending drafts
+			"5" : "Time does not stand still",
+			"6" : "Hot coffee and toast",
+			"7" : "Asleep, not dreaming",
+			"8" : "Welcoming spring thaw"
+		},
+		"choices": {
+			"1" : "young",
+			"2" : "cold",
+			"3" : "raven",
+			"4" : "unwashed",
+			"5" : "Blanket",
+			"6" : "Sweater"
+		}
+	}
+]}

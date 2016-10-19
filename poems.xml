@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<PoemDatabase>
+	<!--
+	<poem>
+		<title></title>
+		<lines>
+			<line></line>
+			<line></line>
+			<line></line>
+			<line></line>
+			<line></line>
+			<line></line>
+			<line></line>
+		</lines>
+		<choices>
+			<choice></choice>
+			<choice></choice>
+			<choice></choice>
+			<choice></choice>
+			<choice></choice>
+			<choice></choice>
+		</choices>
+	</poem>
+	-->
+	<poem>
+		<title>Empty</title>
+		<lines>
+			<line>Empty CHOICE room</line>
+			<line>Am I the only one CHOICE</line>
+			<line>Walls, do you CHOICE some secrets?</line>
+			<line>Missed memo again.</line>
+			<line>I should have listened.</line>
+			<line>Look behind the drapes.</line>
+			<line>Stained drapes, dirty floors.</line>
+		</lines>
+		<choices>
+			<choice>conference</choice>
+			<choice>living</choice>
+			<choice>here?</choice>
+			<choice>left?</choice>
+			<choice>hide</choice>
+			<choice>share</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>Question</title>
+		<lines>
+			<line>CHOICE have a question.</line>
+			<line>What is the point of CHOICE</line>
+			<line>How will the answers be CHOICE</line>
+			<line>Don't forget to write.</line>
+			<line>They keep happening.</line>
+			<line>Ask another one.</line>
+			<line>Look under that rock.</line>
+		</lines>
+		<choices>
+			<choice>I</choice>
+			<choice>You</choice>
+			<choice>all of this?</choice>
+			<choice>Mondays?</choice>
+			<choice>forged?</choice>
+			<choice>found?</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>On the Bright Side</title>
+		<lines>
+			<line>In the CHOICE.</line>
+			<line>CHOICE must be twelve years old.</line>
+			<line>Is that blood orange CHOICE?</line>
+			<line>We'll all die someday.</line>
+			<line>Maybe try dunking.</line>
+			<line>Harbinger of death.</line>
+			<line>Great! A new nightlight!</line>
+		</lines>
+		<choices>
+			<choice>coffee shop</choice>
+			<choice>grocery store</choice>
+			<choice>Music</choice>
+			<choice>These scones</choice>
+			<choice>organic</choice>
+			<choice>reactive</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>Plastic</title>
+		<lines>
+			<line>Plastic can be CHOICE.</line>
+			<line>Kites, tiny sails, CHOICE.</line>
+			<line>Take CHOICE, for instance.</line>
+			<line>We have come so far.</line>
+			<line>You can't be too safe.</line>
+			<line>Food is meant to smell.</line>
+			<line>Way to kill the fun.</line>
+		</lines>
+		<choices>
+			<choice>fun</choice>
+			<choice>dumb</choice>
+			<choice>weapon</choice>
+			<choice>precaution</choice>
+			<choice>leftovers</choice>
+			<choice>party lights</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>Getting There</title>
+		<lines>
+			<line>Thought about a CHOICE.</line>
+			<line>Hot water had been CHOICE.</line>
+			<line>Mud-slick scar CHOICE.</line>
+			<line>Rethinking the plan.</line>
+			<line>Sink into the steam.</line>
+			<line>Sun rising through trees.</line>
+			<line>Movement is movement.</line>
+		</lines>
+		<choices>
+			<choice>bath</choice>
+			<choice>path</choice>
+			<choice>used up</choice>
+			<choice>refreshed</choice>
+			<choice>beckons us on</choice>
+			<choice>makes progress slow</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>Lion Days</title>
+		<lines>
+			<line>Suddenly, spring CHOICE.</line>
+			<line>See our high hopes CHOICE.</line>
+			<line>CHOICE, long-lost visitor!</line>
+			<line>Patience, little bird.</line>
+			<line>Groundhog wrong again.</line>
+			<line>I can spot a tease.</line>
+			<line>Groundhog right for once.</line>
+		</lines>
+		<choices>
+			<choice>snow</choice>
+			<choice>sun</choice>
+			<choice>drifting down</choice>
+			<choice>piling up</choice>
+			<choice>Beat it</choice>
+			<choice>Welcome</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>Question</title>
+		<lines>
+			<line>You know what I CHOICE?</line>
+			<line>All those house CHOICE can't be wrong.</line>
+			<line>Watch these CHOICE fade away.</line>
+			<line>This world is too old.</line>
+			<line>All the world's a cage.</line>
+			<line>It keeps happening.</line>
+			<line>Dirty sheets tell tales.</line>
+		</lines>
+		<choices>
+			<choice>think</choice>
+			<choice>do</choice>
+			<choice>plants</choice>
+			<choice>pets</choice>
+			<choice>matchbooks</choice>
+			<choice>daybeds</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>Bandaid</title>
+		<lines>
+			<line>How bad can it CHOICE?</line>
+			<line>Crimson CHOICE blooming fast:</line>
+			<line>You should see the other CHOICE.</line>
+			<line>Healing needs some help.</line>
+			<line>Pressure stops the flow.</line>
+			<line>I could use a drink.</line>
+			<line>It could get much worse.</line>
+		</lines>
+		<choices>
+			<choice>be</choice>
+			<choice>bleed</choice>
+			<choice>flower</choice>
+			<choice>sunrise</choice>
+			<choice>guy</choice>
+			<choice>graves</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>Soapy</title>
+		<lines>
+			<line>Consider the CHOICE:</line>
+			<line>Residue of CHOICE</line>
+			<line>Luminous cells CHOICE.</line>
+			<line>Wash this day away.</line>
+			<line>Wait for tomorrow.</line>
+			<line>Time for a good scrub.</line>
+			<line>Twenty second rinse.</line>
+		</lines>
+		<choices>
+			<choice>dirt</choice>
+			<choice>skin</choice>
+			<choice>choice and time</choice>
+			<choice>sterile dreams</choice>
+			<choice>dimming fast</choice>
+			<choice>veiled but bright</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>Travel</title>
+		<lines>
+			<line>Blank CHOICE open wide</line>
+			<line>Another CHOICE slips away</line>
+			<line>Opportunity CHOICE</line>
+			<line>Freezing wind, unseen.</line>
+			<line>Early morning rain.</line>
+			<line>Stop chewing the pen.</line>
+			<line>Write now, think later.</line>
+		</lines>
+		<choices>
+			<choice>road</choice>
+			<choice>page</choice>
+			<choice>day</choice>
+			<choice>chance</choice>
+			<choice>blooming</choice>
+			<choice>fading</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>Soup</title>
+		<lines>
+			<line>CHOICE cutting board holds</line>
+			<line>butternut, CHOICE</line>
+			<line>CHOICE and a ready blade</line>
+			<line>Lovers join at last.</line>
+			<line>This will never last.</line>
+			<line>No one will survive.</line>
+			<line>After lunch, justice.</line>
+		</lines>
+		<choices>
+			<choice>Scarred</choice>
+			<choice>Fresh</choice>
+			<choice>sweet potato</choice>
+			<choice>solitary</choice>
+			<choice>victims</choice>
+			<choice>outlaws</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>Winter</title>
+		<lines>
+			<line>Morning window CHOICE</line>
+			<line>Frozen CHOICE and pane opaque</line>
+			<line>CHOICE fire, silent tree</line>
+			<line>Wrap the blanket tight</line>
+			<line>Dreading the cold floor</line>
+			<line>Hit the snooze button</line>
+			<line>Dreams of spring again</line>
+		</lines>
+		<choices>
+			<choice>light</choice>
+			<choice>frames</choice>
+			<choice>bloom</choice>
+			<choice>lace</choice>
+			<choice>Jellyfish</choice>
+			<choice>The newborn</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>Lunch</title>
+		<lines>
+			<line>Some wax paper CHOICE</line>
+			<line>A CHOICE with a sly smile</line>
+			<line>CHOICE slipping through a net</line>
+			<line>Left with crumbs again</line>
+			<line>You know where to go</line>
+			<line>Green water escapes</line>
+			<line>Branches dipping low</line>
+		</lines>
+		<choices>
+			<choice>wet</choice>
+			<choice>torn</choice>
+			<choice>sandwich</choice>
+			<choice>chopstick</choice>
+			<choice>Fresh dew</choice>
+			<choice>Moonlight</choice>
+		</choices>
+	</poem>
+	<poem>
+		<title>Breakfast</title>
+		<lines>
+			<line>His mother was CHOICE</line>
+			<line>Her CHOICE hair loosely tied</line>
+			<line>CHOICE wrapped tight, fending drafts</line>
+			<line>Time does not stand still</line>
+			<line>Hot coffee and toast</line>
+			<line>Asleep, not dreaming</line>
+			<line>Welcoming spring thaw</line>
+		</lines>
+		<choices>
+			<choice>young</choice> 		
+			<choice>cold</choice>		
+			<choice>raven</choice>		
+			<choice>unwashed</choice>	
+			<choice>Blanket</choice>	
+			<choice>Sweater</choice>	
+		</choices>
+	</poem>
+</PoemDatabase>
